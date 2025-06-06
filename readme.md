@@ -6,6 +6,10 @@
 
 ![Home Page](./assets/homepage.png)
 
+### ➕ Discover Recipe
+
+![Add Recipe](./assets/discover.png)
+
 A modern web application built with **React**, **TypeScript**, and **Vite** that allows users to view, add, and share recipes.
 
 ---
