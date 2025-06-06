@@ -1,0 +1,35 @@
+.recipe-detail {
+    max-width: 800px;
+    margin: 40px auto;
+    font-family: 'Segoe UI', sans-serif;
+    padding: 20px;
+    background: white;
+    border-radius: 12px;
+    box-shadow: 0 2px 8px rgba(0,0,0,0.1);
+  }
+  
+  .recipe-detail img {
+    width: 100%;
+    height: auto;
+    margin: 20px 0;
+    border-radius: 10px;
+  }
+  
+  .recipe-detail ul {
+    list-style-type: disc;
+    padding-left: 20px;
+  }
+  
+  .recipe-detail h1,
+  .recipe-detail h2,
+  .recipe-detail h3 {
+    margin-top: 20px;
+  }
+  
+  .back-link {
+    display: inline-block;
+    margin-bottom: 20px;
+    text-decoration: none;
+    color: #555;
+  }
+  
