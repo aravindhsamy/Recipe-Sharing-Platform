@@ -4,7 +4,7 @@
 
 ### 🏠 Home Page
 
-![Home Page](./assets/home-page.png)
+![Home Page](./assets/homepage.png)
 
 A modern web application built with **React**, **TypeScript**, and **Vite** that allows users to view, add, and share recipes.
 
